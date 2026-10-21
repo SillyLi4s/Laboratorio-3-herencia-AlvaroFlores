@@ -1,2 +1,2 @@
-# Laboratorio-6-herencia-AlvaroFlores-
-Lab 6.
+# Laboratorio-3-herencia-AlvaroFlores
+Lab 3
